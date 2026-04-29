@@ -1,0 +1,34 @@
+1. empezamos importando del archivo caja solamente el método muestra_caja
+
+2. a RESET se le asigna el color por defecto del código ANSI
+
+3. a ROJO se le asignará el color rojo a la variable.
+
+4. y VERDE se le asignará el color verde.
+
+5. creamos una función privada introduciendo que recibe un entero dentro del parámetro y devuelve un booleano.
+
+6. devolveremos el resultado como true si el resto de la división, número dividido entre dos, sea 0. Si no, devolverá false.
+
+7. creamos una función pública donde también, introduciremos una variable.
+
+8. creamos una condición, donde comprobamos si el número entero introducido en la función _es_par sea igual que el valor
+
+9. llamamos a la función, muestra_caja, después, dentro de los paréntesis imprimiremos por pantalla lo que haya dentro. f es una variable string especial que permite imprimir variables dentro de {}. Entonces, en {VERDE} imprimiremos la siguiente frase en verde, incluyendo la variable, {valor}. Una vez lleguemos a {RESET}, el color
+volverá a su valor predeterminado o lo que le tengamos asignado.
+
+10. else es una condición que pasará en caso de que if no se cumpla.
+
+11. lo mismo que en el punto 9, sólo que en vez del color verde, será rojo.
+
+12. creamos la función pública, main()
+
+13. llamamos a la función muestra_caja y una cadena de string que lo asignaremos a la variable cadena
+
+14. creamos la variable numero que se le asignará un numero entero introducido por el usuario
+
+15. llamamos a la función mostrar_resultado introduciendo en el parámetro, la variable número
+
+16. si el archivo que estamos actualmente se llama main 
+
+17. ejecutamos el archivo
